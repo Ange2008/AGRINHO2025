@@ -39,9 +39,12 @@ footer {
     background: #35424a;
     color: white;
 }
-button{
-    padding: 2px;
-    margin: 2px;
-    font-size: 10px;
-    background-color: aqua;
+.container-botao{
+    background-color: #030436;
+    border-radius: 5px;
+    padding: 1em;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
