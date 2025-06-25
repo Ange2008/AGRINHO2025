@@ -39,3 +39,9 @@ footer {
     background: #35424a;
     color: white;
 }
+button{
+    padding: 2px;
+    margin: 2px;
+    font-size: 10px;
+    background-color: aqua;
+}
