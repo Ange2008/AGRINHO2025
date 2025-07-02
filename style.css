@@ -45,9 +45,8 @@ footer {
     padding: 1em;
     color: #ffffff;
     display: block;
-    display: flex;
     text-decoration: none;
-    margin-bottom: auto;
+    margin-bottom: 1mm;
     width: 50%;
     text-align: center;
     align-items: center;
